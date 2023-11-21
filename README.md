@@ -4,5 +4,5 @@
 <h3 align="center">Developer from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/hXytp5W/375debb77ac45a8019a801a93f529be9.gif">
-
-<p align="center">Hey, are you experiencing an error when installing the poison resource pack?</p>
+<br>
+<p>Hey, are you experiencing an error when installing the poison resource pack?</p>
