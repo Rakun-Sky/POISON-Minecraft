@@ -13,5 +13,5 @@
 - ⚙️ First Solution: You have to unpack the resource pack file and resize it yourself to 16x16
 - 💡 Recommended Solution: If you are too lazy to change the size of the resource pack file, you can use the resulting file that I have resized.[Click Here](#download)
 
-<h1 align="center">Download project</h1>
-<a id="download">1. [Resource Pack Poison 1.16.5](https://drive.google.com/uc?export=download&id=1n6ILY6aQBaZm_bGb0OmSGzSATDr6dxJX)</a>
+<h1 align="center" id="download">Download project</h1>
+1. [Resource Pack Poison 1.16.5](https://drive.google.com/uc?export=download&id=1n6ILY6aQBaZm_bGb0OmSGzSATDr6dxJX)
